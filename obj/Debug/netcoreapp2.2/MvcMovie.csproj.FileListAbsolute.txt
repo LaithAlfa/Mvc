@@ -14,6 +14,8 @@ C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.AssemblyI
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.TagHelpers.input.cache
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.TagHelpers.output.cache
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.RazorCoreGenerate.cache
+C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
@@ -28,3 +30,5 @@ C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.Views.pdb
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\CIDM3312-BUFFTEKS PROJECT\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
